@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-monument-extended: "Monument Extended";
+  --font-poppins: Poppins;
+
+  /* font sizes */
+  --font-size-base: 16px;
+  --font-size-4xl-5: 23.5px;
+  --font-size-xl-5: 20.5px;
+  --font-size-mid-4: 17.4px;
+  --font-size-mini-9: 14.9px;
+  --font-size-lgi-9: 19.9px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-tomato: #f35f43;
+  --color-black: #000;
+  --color-dimgray: #4d4d4d;
+  --color-lightgray: #d2d2d2;
+  --color-mediumseagreen: #2dc071;
+  --color-whitesmoke: #f6f6f6;
+
+  /* Gaps */
+  --gap-16xl-2: 35.2px;
+  --gap-40xl-6: 59.6px;
+  --gap-lgi-9: 19.9px;
+  --gap-3xs-9: 9.9px;
+  --gap-10xl-8: 29.8px;
+  --gap-8xs: 5px;
+
+  /* Paddings */
+  --padding-10xl-8: 29.8px;
+  --padding-8xs: 5px;
+  --padding-3xs-9: 9.9px;
+
+  /* border radiuses */
+  --br-3xs-9: 9.9px;
+  --br-8xs: 5px;
+}
